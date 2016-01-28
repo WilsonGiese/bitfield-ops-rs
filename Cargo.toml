@@ -1,0 +1,5 @@
+[package]
+name = "bitfield_ops"
+version = "0.1.0"
+authors = ["Wilson Giese <giese.wilson@gmail.com>"]
+description="Macros for bitfield manipulation"
